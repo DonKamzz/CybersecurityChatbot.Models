@@ -53,6 +53,9 @@ This chatbot helps users learn about online safety through interactive conversat
 1. Navigate to bin/Debug/net6.0-windows/
 2. Double-click CybersecurityChatbot.exe
 
+YouTube Video
+https://youtu.be/2PrBYFH1fow
+
 ## How to Use
 1. Launch the application
 2. Enter your name when prompted
